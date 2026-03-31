@@ -1,0 +1,11 @@
+{
+    "Group": "Tencryn",
+    "Name": "DisabledDurability",
+    "Version": "1.0",
+    "Description": "Disables durability for all tools, weapons and armour.",
+    "Authors": [],
+    "DisabledByDefault": false,
+    "IncludesAssetPack": false,
+    "ServerVersion": "2026.03.26-92489d5e7",
+    "Main": "dev.tencryn.DisabledDurability"
+}
