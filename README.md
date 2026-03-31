@@ -2,6 +2,9 @@
 A simple mod for Hytale that disables all durability.\
 Inspired by https://www.curseforge.com/hytale/mods/disabled-durability
 
+**Feel free to use or modify to your hearts content.**\
+I just wanted to help much like Clippy.
+
 ### Outdated Warning?
 The most common issue when it comes to outdated mods is a warning telling you that the mod may be outdated.
 
@@ -14,6 +17,6 @@ Assuming the mod otherwise works fine, to fix the warning:
 You can find the version in the Hytale launcher at the bottom left hand corner.\
 Do not copy `pre-release/` if present.
 
-Examples:\
+**Examples**:\
 `"ServerVersion": "2026.03.26-89796e57b"` for release\
 `"ServerVersion": "2026.03.26-92489d5e7"` for pre-release
